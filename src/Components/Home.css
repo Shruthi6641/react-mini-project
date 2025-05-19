@@ -1,0 +1,23 @@
+#home h3{
+    text-align: center;
+    color: rgb(155, 155, 196);
+    margin: 2%;
+    font-family: fantasy;
+}
+
+.home{
+    background-color: #fff3e6;
+    height: 65vh;
+}
+.cards{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 3%;
+    
+}
+.homecard:hover{
+    transition:all 1s ease-out;
+    transform: scale(1.1);
+
+}

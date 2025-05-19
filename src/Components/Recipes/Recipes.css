@@ -1,0 +1,7 @@
+.allrecipes{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    padding: 3%;
+    gap:20px;
+    /* width:100% */
+}

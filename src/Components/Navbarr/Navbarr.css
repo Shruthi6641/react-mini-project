@@ -1,0 +1,18 @@
+#navbarScroll{
+    flex-grow: 0;
+    
+}
+
+#nav_right{
+    display: flex;
+    gap:10px;
+}
+#nav_right a{
+    text-decoration: none;
+    color: white;
+    font-size: 1.5rem;
+    font-style: italic;
+}
+#nav{
+    padding: 1%;
+}
